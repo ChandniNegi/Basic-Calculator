@@ -1,0 +1,11 @@
+.center{
+    text-align: center;
+    margin-top: 0rem;
+}
+.container{
+    margin: auto;
+    /* background: green; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
